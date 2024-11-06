@@ -27,3 +27,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirin-bear&show_icons=true&locale=en" alt="kirin-bear" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirin-bear&" alt="kirin-bear" /></p>
+
+<p>
+  Инструменты по генерации readme.md
+  <ul>
+    <li><a href="https://profile-readme-generator.com/" target="_blank">https://profile-readme-generator.com/</a></li>
+    <li><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">https://rahuldkjain.github.io/gh-profile-readme-generator/</a></li>
+  </ul>
+</p>
