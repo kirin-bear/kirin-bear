@@ -1,5 +1,53 @@
-<article id="139483d6-11f1-804e-a8eb-f376955ec113" class="page sans"><header><div class="page-header-icon undefined"><img class="icon" src="https://www.notion.so/icons/git_lightgray.svg"/></div><h1 class="page-title">Github kirin-bear</h1><p class="page-description"></p></header><div class="page-body"><p id="139483d6-11f1-80ce-b350-f73a73c00cbc" class="">
-</p><h1 id="139483d6-11f1-80f7-91dc-d7dcf9b1810b" class="">👋 Hi, I&#x27;m Anton Kirin</h1><h2 id="139483d6-11f1-807d-9723-c726c864ce6a" class="">🧟 TeamLead / Senior Web-developer</h2><ul id="139483d6-11f1-8013-9955-efeab26b055f" class="bulleted-list"><li style="list-style-type:disc">💼 I’m currently working on <a href="https://smartis.bi/">Smartis</a></li></ul><ul id="139483d6-11f1-80e3-bd1f-d800ac6a4f20" class="bulleted-list"><li style="list-style-type:disc">🌱 I’m currently learning<ul id="139483d6-11f1-8010-b2a9-f6959ea69883" class="bulleted-list"><li style="list-style-type:circle"><strong>Laravel 10</strong></li></ul><ul id="139483d6-11f1-8053-8e70-cc3a713f7b1a" class="bulleted-list"><li style="list-style-type:circle"><strong>PHP 8.3</strong></li></ul><ul id="139483d6-11f1-80ba-9fea-f6b77e876c9e" class="bulleted-list"><li style="list-style-type:circle"><strong>Project Management</strong></li></ul></li></ul><ul id="139483d6-11f1-802c-a133-ef6a8f95b425" class="bulleted-list"><li style="list-style-type:disc">💻 All of my projects are available at <a href="https://kirin-bear.ru/works">web-page</a></li></ul><ul id="139483d6-11f1-80a6-91f0-ce3f04cabb00" class="bulleted-list"><li style="list-style-type:disc">📄 Know about my experiences [resume<em>link</em>undefined]</li></ul><ul id="139483d6-11f1-8037-82b7-d4ee35ebd38b" class="bulleted-list"><li style="list-style-type:disc">🧑🏼‍💻 Github activities [link]</li></ul><h2 id="139483d6-11f1-8014-870a-d0abf33accc8" class="">🔗 Connect with me:</h2><p id="139483d6-11f1-8008-bb18-c9846f868013" class="">// linkedin  //instagram</p><h2 id="139483d6-11f1-8062-8515-cbe429cd4385" class="">🛠️ Languages and Tools:</h2><div id="139483d6-11f1-8011-9463-fa7101a0159e" class="column-list"><div id="288734d8-dee3-4b77-9db2-d57d2ba070a0" style="width:43.75%" class="column"><p id="139483d6-11f1-80a3-89f3-c17bf9275a1a" class=""><strong>Programming Language</strong></p><table id="139483d6-11f1-8033-9e52-f6639a59e303" class="simple-table"><tbody><tr id="4bf17fd1-eb26-413b-82bd-d64a2f08e5c2"><td id="H|YN" class="">PHP</td><td id="\e}&lt;" class="">⭑⭑⭑⭑✩ </td></tr><tr id="d4634346-66f9-4d67-b235-15b874c64296"><td id="H|YN" class="">JavaScript</td><td id="\e}&lt;" class="">⭑⭑⭑⭑✩ </td></tr><tr id="10be0877-c992-4ff7-a707-26f2a827954a"><td id="H|YN" class="">TypeScript</td><td id="\e}&lt;" class="">⭑✩✩✩✩ </td></tr></tbody></table><p id="139483d6-11f1-80bc-8731-d58567b774aa" class=""><strong>Programming Language</strong></p><table id="139483d6-11f1-80e6-b54a-c102c34ff048" class="simple-table"><tbody><tr id="139483d6-11f1-8029-ab94-d3a56d6b912e"><td id="sVSE" class="">Nginx</td><td id="KWPm" class="">⭑⭑✩✩✩ </td></tr><tr id="139483d6-11f1-80e7-84cd-f885c5d2ed91"><td id="sVSE" class="">RabbitMQ</td><td id="KWPm" class="">⭑✩✩✩✩ </td></tr></tbody></table><p id="139483d6-11f1-80f0-ace3-d837789e6a57" class=""><strong>Programming Language</strong></p><table id="139483d6-11f1-80c9-b6bc-c25c50ce822a" class="simple-table"><tbody><tr id="139483d6-11f1-80b7-8454-cbad7dde4276"><td id="WdLr" class=""></td><td id="GETY" class=""></td></tr><tr id="139483d6-11f1-809e-8acd-c595108bc2fe"><td id="WdLr" class=""></td><td id="GETY" class=""></td></tr><tr id="139483d6-11f1-802b-a6f2-ee7f51d9c7f0"><td id="WdLr" class=""></td><td id="GETY" class=""></td></tr></tbody></table><p id="139483d6-11f1-8064-9e3c-d8933237bf87" class="">
-</p></div><div id="1e63cf2e-7a0a-42c6-837f-f10233bdc146" style="width:56.25%" class="column"><p id="139483d6-11f1-80ff-9506-d0a41a1a6210" class=""><strong>Programming Language</strong></p><table id="139483d6-11f1-8010-a09a-e19d357a9950" class="simple-table"><tbody><tr id="139483d6-11f1-80bb-ab71-cadfca3d6ff6"><td id="\JYP" class="">Vue.js</td><td id="klPo" class="">⭑⭑⭑✩✩ </td></tr><tr id="139483d6-11f1-80e8-bc74-f8cc9f07f251"><td id="\JYP" class="">React.js</td><td id="klPo" class="">⭑✩✩✩✩ </td></tr><tr id="139483d6-11f1-8016-a56a-fbddff3cf38d"><td id="\JYP" class="">Sass</td><td id="klPo" class="">⭑⭑✩✩✩ </td></tr></tbody></table><p id="139483d6-11f1-80cf-aad6-c300d0516a6a" class=""><strong>Programming Language</strong></p><table id="139483d6-11f1-808c-8693-ddc8019978cf" class="simple-table"><tbody><tr id="139483d6-11f1-80af-8a0b-e11de951eff7"><td id="iJWz" class="">MySQL</td><td id="ulb;" class="">⭑⭑⭑⭑✩ </td></tr><tr id="139483d6-11f1-80f2-8663-edc1e7f26457"><td id="iJWz" class="">PostgreSQL</td><td id="ulb;" class="">⭑⭑✩✩✩ </td></tr><tr id="139483d6-11f1-80d0-a202-cc167cb847c4"><td id="iJWz" class="">Redis</td><td id="ulb;" class="">⭑⭑⭑✩✩ </td></tr></tbody></table><p id="139483d6-11f1-8091-8d4c-cc46d87478b2" class="">
-</p><p id="139483d6-11f1-8088-b583-fb6c022b3313" class=""><strong>Programming Language</strong></p><table id="139483d6-11f1-80f5-801e-e10501a2c354" class="simple-table"><tbody><tr id="722531a7-dcf0-4032-a50f-62402d4476e1"><td id="iJWz" class=""></td><td id="ulb;" class=""></td></tr><tr id="34200eb6-2a07-43a8-8fcb-5e2028b59007"><td id="iJWz" class=""></td><td id="ulb;" class=""></td></tr><tr id="07e7d022-79d2-4449-9b80-e88028e1bd05"><td id="iJWz" class=""></td><td id="ulb;" class=""></td></tr></tbody></table></div></div><p id="139483d6-11f1-8062-8482-eb219f0b50b3" class="">
-</p></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span>
+# 👋 Hi, I'm Anton Kirin
+
+---
+
+## 🧟 TeamLead / Senior Web-developer
+
+- 💼 I’m currently working on [Smartis](https://smartis.bi/)
+
+- 🌱 I’m currently learning
+
+    - **Laravel 10**
+
+    - **PHP 8.3**
+
+    - **Project Management**
+
+- 💻 All of my projects are available at [web-page](https://kirin-bear.ru/works)
+
+- 📄 Know about my experiences [resume_link_undefined]
+
+- 🧑🏼‍💻 Github activities [link]
+
+## 🔗 Connect with me:
+
+// linkedin  //instagram
+
+
+
+## 🛠️ Languages and Tools:
+
+|||||
+|-|-|-|-|
+|**Programming Language**||**Frontend Development**||
+|PHP|⭑⭑⭑⭑✩ |Vue.js|⭑⭑⭑✩✩ |
+|JavaScript|⭑⭑⭑⭑✩ |React.js|⭑✩✩✩✩ |
+|TypeScript|⭑✩✩✩✩ |Sass|⭑⭑✩✩✩ |
+|||||
+|**Backend Development**||**Database**||
+|Nginx|⭑⭑✩✩✩ |MySQL|⭑⭑⭑⭑✩ |
+|RabbitMQ|⭑✩✩✩✩ |PostgreSQL|⭑⭑✩✩✩ |
+|||Redis|⭑⭑⭑✩✩ |
+|||||
+|**Data Visualization**||**Devops**||
+|Grafana|⭑⭑⭑✩✩ |Docker|⭑⭑⭑✩✩ |
+|||Bash|⭑⭑⭑✩✩ |
+|||Kubernetes|⭑✩✩✩✩ |
+|||||
+|**Framework**||**Testing**||
+|Laravel|⭑⭑⭑⭑✩ |PHPUnit|⭑⭑⭑⭑✩ |
+|||||
+
+
+
