@@ -28,18 +28,18 @@
 
 ## 🛠️ Languages and Tools:
 
-
+|||||
 |-|-|-|-|
 |**Programming Language**||**Frontend Development**||
 |PHP|⭑⭑⭑⭑✩ |Vue.js|⭑⭑⭑✩✩ |
 |JavaScript|⭑⭑⭑⭑✩ |React.js|⭑✩✩✩✩ |
 |TypeScript|⭑✩✩✩✩ |Sass|⭑⭑✩✩✩ |
-|||||
+|-|-|-|-|
 |**Backend Development**||**Database**||
 |Nginx|⭑⭑✩✩✩ |MySQL|⭑⭑⭑⭑✩ |
 |RabbitMQ|⭑✩✩✩✩ |PostgreSQL|⭑⭑✩✩✩ |
 |||Redis|⭑⭑⭑✩✩ |
-|||||
+|---|---|---|---|
 |**Data Visualization**||**Devops**||
 |Grafana|⭑⭑⭑✩✩ |Docker|⭑⭑⭑✩✩ |
 |||Bash|⭑⭑⭑✩✩ |
