@@ -1,8 +1,6 @@
 
 # 👋 Hi, I'm Anton Kirin
 
----
-
 ## 🧟 TeamLead / Senior Web-developer
 
 - 💼 I’m currently working on [Smartis](https://smartis.bi/)
@@ -36,16 +34,25 @@
 |JavaScript|⭑⭑⭑⭑✩ |React.js|⭑✩✩✩✩ |
 |TypeScript|⭑✩✩✩✩ |Sass|⭑⭑✩✩✩ |
 |||||
+
+|||||
+|-|-|-|-|
 |**Backend Development**||**Database**||
 |Nginx|⭑⭑✩✩✩ |MySQL|⭑⭑⭑⭑✩ |
 |RabbitMQ|⭑✩✩✩✩ |PostgreSQL|⭑⭑✩✩✩ |
 |||Redis|⭑⭑⭑✩✩ |
 |||||
+
+|||||
+|-|-|-|-|
 |**Data Visualization**||**Devops**||
 |Grafana|⭑⭑⭑✩✩ |Docker|⭑⭑⭑✩✩ |
 |||Bash|⭑⭑⭑✩✩ |
 |||Kubernetes|⭑✩✩✩✩ |
 |||||
+
+|||||
+|-|-|-|-|
 |**Framework**||**Testing**||
 |Laravel|⭑⭑⭑⭑✩ |PHPUnit|⭑⭑⭑⭑✩ |
 |||||
