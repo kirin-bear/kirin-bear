@@ -29,7 +29,7 @@
 ## 🛠️ Languages and Tools:
 
 
-<table>
+<table style="width:100%">
     <tr>
         <td colspan="2"><b>Programming Language</b></td>
 		<td colspan="2"><b>Frontend Development</b></td>
