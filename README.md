@@ -28,7 +28,7 @@
 
 ## 🛠️ Languages and Tools:
 
-|||||
+
 |-|-|-|-|
 |**Programming Language**||**Frontend Development**||
 |PHP|⭑⭑⭑⭑✩ |Vue.js|⭑⭑⭑✩✩ |
