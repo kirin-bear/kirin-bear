@@ -86,7 +86,7 @@
 	<tr>
         <td></td>
         <td></td>
-		<td><img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" width="15px" height="15px" /> Bash</td>
+		<td><img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" width="20px" height="20px" /> Bash</td>
         <td>⭑⭑⭑✩✩</td>
     </tr>
 	<tr>
