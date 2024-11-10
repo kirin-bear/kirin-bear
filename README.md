@@ -10,7 +10,7 @@
  	- **TypeScript** 	
 - 💻 All of my projects are available at [web-page](https://kirin-bear.ru/works)
 - 📄 Know about my experiences [resume_link_undefined]
-- 🧑🏼‍💻 Github activities [link]
+- 🧑🏼‍💻 [Github activities](https://github.com/kirin-bear/kirin-bear/blob/main/activity.md)
 
 ## 🔗 Connect with me:
 
