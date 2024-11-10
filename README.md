@@ -5,12 +5,10 @@
 - 💼 I’m currently working on [Smartis](https://smartis.bi/)
 
 - 🌱 I’m currently learning
-
 	- **Laravel 10**
-
 	- **PHP 8.3**
-
 	- **Project Management**
+ 	- **TypeScript** 	
 
 - 💻 All of my projects are available at [web-page](https://kirin-bear.ru/works)
 
