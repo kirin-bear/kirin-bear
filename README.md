@@ -103,7 +103,7 @@
 		<td colspan="2"><b>Testing</b></td>
     </tr>
 	<tr>
-        <td>Laravel</td>
+        <td><img src="https://img.icons8.com/?size=100&id=qfQaIYKX23qY&format=png&color=000000" width="20px" height="20px" /> Laravel</td>
         <td>⭑⭑⭑⭑✩</td>
 		<td>PHPUnit</td>
         <td>⭑⭑⭑⭑✩</td>
