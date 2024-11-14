@@ -13,6 +13,7 @@
 - 💻 All of my projects are available at [web-page](https://kirin-bear.ru/works)
 - 📄 Know about my experiences [resume_link_undefined]
 - 🧑🏼‍💻 [Github activities](https://github.com/kirin-bear/kirin-bear/blob/main/activity.md)
+- ⛑️ [Helpful links](https://github.com/kirin-bear/kirin-bear/blob/main/helpful-links.md)
 
 ## 🔗 Connect with me:
 
