@@ -66,8 +66,8 @@
         <td>⭑⭑✩✩✩</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>Apache</td>
+        <td>⭑✩✩✩✩</td>
         <td>Redis</td>
         <td>⭑⭑⭑✩✩</td>
     </tr>
