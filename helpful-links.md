@@ -6,3 +6,5 @@
 ## Инструменты PHP
 
 1. [Saloon](https://docs.saloon.dev/) - библиотека для создания простых интеграций API и SDK.
+2. Laravel Nova
+3. Laravel Moonshine
