@@ -6,10 +6,11 @@
 
 - 💼 I’m currently working on [Smartis](https://smartis.bi/)
 - 🌱 I’m currently learning
-	- **Laravel 10**
+	- **Laravel 11**
 	- **PHP 8.3**
 	- **Project Management**
 	- **TypeScript**
+ 	- **Symfony 7.2** 	
 - 💻 All of my projects are available at [web-page](https://kirin-bear.ru/works)
 - 📄 Know about my experiences [resume_link_undefined]
 - 🧑🏼‍💻 [Github activities](https://github.com/kirin-bear/kirin-bear/blob/main/activity.md)
