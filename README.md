@@ -4,13 +4,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kirin-bear&label=Profile%20views&color=0e75b6&style=flat" alt="kirin-bear" /> </p>
 
-- 💼 I’m currently working on [Smartis](https://smartis.bi/)
-- 🌱 I’m currently learning
-	- **Laravel 11**
-	- **PHP 8.3**
-	- **Project Management**
-	- **TypeScript**
- 	- **Symfony 7.2** 	
+- 💼 I’m currently working on [Smartis](https://smartis.bi/)	
 - 💻 All of my projects are available at [web-page](https://kirin-bear.ru/works)
 - 📄 Know about my experiences [resume_link_undefined]
 - 🧑🏼‍💻 [Github activities](https://github.com/kirin-bear/kirin-bear/blob/main/activity.md)
