@@ -7,6 +7,7 @@
 - 💻 All of my projects are available at [web-page](https://kirin-bear.ru/works)
 - 🌴 My second [github page](https://github.com/tourismania)
 - 🗺️ Roadmap [profile](https://roadmap.sh/u/kirinbear)
+- 🤖 [My agent](https://github.com/kirin-bear-sub)
 
 ## 🔗 Connect with me:
 
